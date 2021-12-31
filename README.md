@@ -1,0 +1,2 @@
+# NEKOSWAP
+Translation for NEKOSWAP
